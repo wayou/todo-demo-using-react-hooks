@@ -1,0 +1,13 @@
+
+export const TAB_TYPES = {
+  ALL: 'ALL',
+  UNCOMPLETED: 'UNCOMPLETED',
+  COMPLETED: 'COMPLETED'
+};
+
+export const ACTION_TYPES = {
+  ADD: 'ADD',
+  REMOVE: 'REMOVE',
+  TOGGLE: 'TOGGLE',
+  CHANGE_TAB: 'CHANGE_TAB'
+};
